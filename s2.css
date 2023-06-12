@@ -1,0 +1,34 @@
+body{
+    
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+table{
+     margin: 0 auto;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center;
+    
+    
+    
+}
+p{
+    text-align: justify;
+    font-family:'Times New Roman', Times, serif;
+}
+u{
+    background-color: rgb(140, 140, 233);
+
+}
+dl{
+    text-align: center;
+}
